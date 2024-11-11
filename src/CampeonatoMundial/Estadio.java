@@ -10,7 +10,7 @@ public class Estadio {
     }
 
     public Torcida getTorcida() {
-        return torcida;
+        return torcida;44
     }
 
     public void setTorcida(Torcida torcida) {
